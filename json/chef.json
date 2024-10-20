@@ -1,0 +1,60 @@
+{
+    "allChef": [
+        {
+            "id": "1",
+            "image": "../image/chef/cheff1.png",
+            "firstname": "Chumphon",
+            "lastname": "Chaengphrai",
+            "position": "Head Chef"
+        },
+        {
+            "id": "2",
+            "image": "../image/chef/cheff2.png",
+            "firstname": "Chef Deepanker ",
+            "lastname": "Khosla",
+            "position": "Sous Chef"
+        },
+        {
+            "id": "3",
+            "image": "../image/chef/cheff3.png",
+            "firstname": " Chef Dan ",
+            "lastname": "Bark",
+            "position": "Pastry Chef"
+        },
+        {
+            "id": "4",
+            "image": "../image/chef/cheff4.png",
+            "firstname": "Natthaphon",
+            "lastname": "Phawaphaiboon",
+            "position": "Line Cook"
+        },
+        {
+            "id": "5",
+            "image": "../image/chef/cheff5.png",
+            "firstname": "Henk",
+            "lastname": "Savelberg",
+            "position": "Grill Chef"
+        },
+        {
+            "id": "6",
+            "image": "../image/chef/cheff6.png",
+            "firstname": "Thanarak",
+            "lastname": "Chuto",
+            "position": "Sauce Chef"
+        },
+        {
+            "id": "7",
+            "image": "../image/chef/cheff7.png",
+            "firstname": "Wuttisak",
+            "lastname": "Wuttiamphon",
+            "position": "Prep Chef"
+        },
+        {
+            "id": "8",
+            "image": "../image/chef/cheff8.png",
+            "firstname": "Andy",
+            "lastname": "Yang Eaksakul",
+            "position": "Vegetable Chef"
+        }
+    ]
+}

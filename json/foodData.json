@@ -1,0 +1,342 @@
+{
+    "allFood": [
+        {
+            "id": "1",
+            "name": "Cucumber Pork Hamburger",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger1.png",
+            "price": "65",
+            "rate": "4.5"
+        },
+        {
+            "id": "2",
+            "name": "Beef Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/beef.png",
+            "price": "120",
+            "rate": "4"
+        },
+        {
+            "id": "3",
+            "name": "Pork Hamburger With Bacon And Vegetables",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger3.png",
+            "price": "85",
+            "rate": "5"
+        },
+        {
+            "id": "4",
+            "name": "Double Pork And Cheese Bacon Burger",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger4.png",
+            "price": "100",
+            "rate": "3.5"
+        },
+        {
+            "id": "5",
+            "name": "Beef Steak (Medium Rare)",
+            "category": "Steak",
+            "image": "../image/menuImg/beefmedium.png",
+            "price": "160",
+            "rate": "4.5"
+        },
+        {
+            "id": "6",
+            "name": "Hamburger Pork and Cheese ",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger6.png",
+            "price": "50",
+            "rate": "5"
+        },
+        {
+            "id": "7",
+            "name": "Hamburger Knight",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger7.png",
+            "price": "440",
+            "rate": "4"
+        },
+        {
+            "id": "8",
+            "name": "4 Layer Pork Burger Cheese Bacon",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger8.png",
+            "price": "250",
+            "rate": "3"
+        },
+        {
+            "id": "9",
+            "name": "BBQ Fish Burger",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger10.png",
+            "price": "70",
+            "rate": "5"
+        },
+        {
+            "id": "10",
+            "name": "Hamburger King",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger11.png",
+            "price": "500",
+            "rate": "4"
+        },
+        {
+            "id": "11",
+            "name": "5 Layer Pork And Cheese Hamburger",
+            "category": "Burger",
+            "image": "../image/menuImg/hamburger12.png",
+            "price": "350",
+            "rate": "4"
+        },
+        {
+            "id": "12",
+            "name": "Stawberry Juice",
+            "category": "Drink",
+            "image": "../image/menuImg/stawberry.png",
+            "price": "40",
+            "rate": "3.5"
+        },
+        {
+            "id": "13",
+            "name": "Red Wine",
+            "category": "Drink",
+            "image": "../image/menuImg/redwine.png",
+            "price": "160",
+            "rate": "4.5"
+        },
+        {
+            "id": "14",
+            "name": "Blue Hawaii",
+            "category": "Drink",
+            "image": "../image/menuImg/blue.png",
+            "price": "60",
+            "rate": "3.5"
+        },
+        {
+            "id": "15",
+            "name": "Orange Juice",
+            "category": "Drink",
+            "image": "../image/menuImg/orangejuice.png",
+            "price": "40",
+            "rate": "4"
+        },
+        {
+            "id": "16",
+            "name": "Lemon Tea",
+            "category": "Drink",
+            "image": "../image/menuImg/lemontea.png",
+            "price": "40",
+            "rate": "5"
+        },
+        {
+            "id": "17",
+            "name": "Coca-Cola",
+            "category": "Drink",
+            "image": "../image/menuImg/drink2.png",
+            "price": "17",
+            "rate": "4.5"
+        },
+        {
+            "id": "18",
+            "name": "Pepsi",
+            "category": "Drink",
+            "image": "../image/menuImg/drink1.png",
+            "price": "12",
+            "rate": "4.5"
+        },
+        {
+            "id": "19",
+            "name": "Fried Chicken",
+            "category": "Fried",
+            "image": "../image/menuImg/fried1.png",
+            "price": "60",
+            "rate": "4"
+        },
+        {
+            "id": "20",
+            "name": "French Fries",
+            "category": "Fried",
+            "image": "../image/menuImg/fried2.png",
+            "price": "60",
+            "rate": "3.5"
+        },
+        {
+            "id": "21",
+            "name": "Gyoza",
+            "category": "Fried",
+            "image": "../image/menuImg/fried3.png",
+            "price": "149",
+            "rate": "4"
+        },
+        {
+            "id": "22",
+            "name": "Spicy Fried Chicken",
+            "category": "Fried",
+            "image": "../image/menuImg/fried4.png",
+            "price": "90",
+            "rate": "3"
+        },
+        {
+            "id": "23",
+            "name": "Cheese French Fries",
+            "category": "Fried",
+            "image": "../image/menuImg/fried6.png",
+            "price": "120",
+            "rate": "3.5"
+        },
+        {
+            "id": "24",
+            "name": "Crispy Fried Chicken",
+            "category": "Fried",
+            "image": "../image/menuImg/fried5.png",
+            "price": "129",
+            "rate": "5"
+        },
+        {
+            "id": "25",
+            "name": "Crab stick and sausage pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza001.png",
+            "price": "279",
+            "rate": "4"
+        },
+        {
+            "id": "26",
+            "name": "Pepperoni Pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza2.png",
+            "price": "359",
+            "rate": "4.5"
+        },
+        {
+            "id": "27",
+            "name": "Drunken Chicken Pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza002.png",
+            "price": "399",
+            "rate": "4.5"
+        },
+        {
+            "id": "28",
+            "name": "Hawaiian Pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza4.png",
+            "price": "379",
+            "rate": "4"
+        },
+        {
+            "id": "29",
+            "name": "Cheesy Puff Triple Meat",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza003.png",
+            "price": "149",
+            "rate": "3.5"
+        },
+        {
+            "id": "30",
+            "name": "Double cheese Pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza004.png",
+            "price": "299",
+            "rate": "5"
+        },
+        {
+            "id": "31",
+            "name": "Cheese Pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza7.png",
+            "price": "379",
+            "rate": "3"
+        },
+        {
+            "id": "32",
+            "name": "Baked Spinach and Tomatoes Pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza05.png",
+            "price": "379",
+            "rate": "4.5"
+        },
+        {
+            "id": "33",
+            "name": "Supreme Pizza",
+            "category": "Pizza",
+            "image": "../image/menuImg/pizza9.png",
+            "price": "329",
+            "rate": "4"
+        },
+        {
+            "id": "34",
+            "name": "Grilled Chicken Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak1.png",
+            "price": "139",
+            "rate": "4.5"
+        },
+        {
+            "id": "35",
+            "name": "Beef Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak2.png",
+            "price": "147",
+            "rate": "5"
+        },
+        {
+            "id": "36",
+
+
+            "name": "Pork Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak3.png",
+            "price": "79",
+            "rate": "4"
+        },
+        {
+            "id": "37",
+            "name": "BBQ Chicken Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak4.png",
+            "price": "89",
+            "rate": "4"
+        },
+        {
+            "id": "38",
+            "name": "Ribeye Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak5.png",
+            "price": "129",
+            "rate": "5"
+        },
+        {
+            "id": "39",
+            "name": "Pork Chop Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak6.png",
+            "price": "100",
+            "rate": "4"
+        },
+        {
+            "id": "40",
+            "name": "Garlic Chicken Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak7.png",
+            "price": "79",
+            "rate": "3.5"
+        },
+        {
+            "id": "41",
+            "name": "Sirloin Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak8.png",
+            "price": "239",
+            "rate": "4.5"
+        },
+        {
+            "id": "42",
+            "name": "Teriyaki Pork Steak",
+            "category": "Steak",
+            "image": "../image/menuImg/steak9.png",
+            "price": "329",
+            "rate": "3.5"
+        }
+    ]
+}
