@@ -28,6 +28,7 @@ nav .container{
     justify-content: space-between;
     align-items: center;
     z-index: 999;
+    /* background-color:var(--blackBlue); */
 }
 /* logo */
 nav .container .logo{
@@ -126,24 +127,24 @@ nav .container .rightBx  .signup_And_login_BtnBx.haveToken{
 }
 
 nav .container .rightBx  .signup_And_login_BtnBx .signUpBtn{
-    background: var(--yellow);
+    background:transparent;
     padding: 1rem;
     color: white;
-    border: 1px solid var(--yellow);
+    /* border: 1px solid var(--yellow); */
     transition:all .2s ease;
 }
 nav .container .rightBx  .signup_And_login_BtnBx .loginBtn{
     background:none;
     padding: 1rem 1.5rem; 
     color: white;
-    border: 1px solid var(--yellow);
+    /* border: 1px solid var(--yellow); */
     transition:all .2s ease;
 }
 
 
 nav .container .rightBx  .signup_And_login_BtnBx .signUpBtn:hover{
     background: var(--yellowHover);
-    border: 1px solid var(--yellowHover);
+    /* border: 1px solid var(--yellowHover); */
     cursor: pointer;
 }
 nav .container .rightBx  .signup_And_login_BtnBx .loginBtn:hover{

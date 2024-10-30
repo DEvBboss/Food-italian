@@ -1,7 +1,4 @@
 @import '../color.css';
-
-
-
 .banner .bannerSwiper .bannerSlide.slide1{
     position: relative;
     background: url('/image/banner01.jpg');
@@ -102,7 +99,7 @@
 .banner .bannerSwiper .bannerSlide .container .content .btnBx .btn1{
     /* background: var(--yellow); */
     background: none;
-    border: 1px solid var(--yellow);
+    /* border: 1px solid var(--yellow); */
     padding: 1.5rem 3rem;
     display: inline-block;
     color: white;
@@ -111,7 +108,7 @@
 }
 .banner .bannerSwiper .bannerSlide .container .content .btnBx .btn2{
     background: none;
-    border: 1px solid var(--yellow);
+    /* border: 1px solid var(--yellow); */
     padding: 1.5rem 3rem;
     display: inline-block;
     color: white;
@@ -121,7 +118,7 @@
 
 .banner .bannerSwiper .bannerSlide .container .content .btnBx .btn1:hover{
     background: var(--yellowHover);
-    border: 1px solid var(--yellowHover);
+    /* border: 1px solid var(--yellowHover); */
     cursor: pointer;
 }
 .banner .bannerSwiper .bannerSlide .container .content .btnBx .btn2:hover{
